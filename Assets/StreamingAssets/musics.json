@@ -1,0 +1,83 @@
+{
+    "Musics":[
+        {
+            "Name": "Click Hell",
+            "Composer":"",
+            "Arranger":"",
+            "LyricsWriter":"",
+            "AudioPath":"Little_Star_160.ogg",
+            "PreviewPath":"",
+            "Padding":4,
+            "Charts":[
+                {
+                    "Difficulty":2,
+                    "FilePath":"click_test.sus"
+                }
+            ]
+        },
+        {
+            "Name": "Flick Hell",
+            "Composer":"",
+            "Arranger":"",
+            "LyricsWriter":"",
+            "AudioPath":"Little_Star_160.ogg",
+            "PreviewPath":"",
+            "Padding":4,
+            "Charts":[
+                {
+                    "Difficulty":2,
+                    "FilePath":"flick_test.sus"
+                }
+            ]
+        },
+        {
+            "Name": "Greensleeves",
+            "Composer":"",
+            "Arranger":"",
+            "LyricsWriter":"",
+            "AudioPath":"greensleeve/greensleeves_3.ogg",
+            "PreviewPath":"",
+            "JacketPath":"greensleeve/jacket.png",
+            "Padding":4,
+            "Charts":[
+                {
+                    "Difficulty":2,
+                    "FilePath":"greensleeve/greensleeves_hard.fbscore"
+                }
+            ]
+        },
+        {
+            "Name": "TRAP",
+            "Composer":"nEVeR",
+            "Arranger":"goNNa",
+            "LyricsWriter":"GiVE",
+            "Singer":"yoU uP",
+            "AudioPath":"trap/never_gonna_give_you_up.ogg",
+            "PreviewPath":"",
+            "JacketPath":"trap/trap.png",
+            "Padding":4,
+            "Charts":[
+                {
+                    "Difficulty":2,
+                    "FilePath":"trap/trap_hard.fbscore"
+                }
+            ]
+        },
+        {
+            "Name": "ベノム",
+            "Composer":"かいりきベア",
+            "Arranger":"-",
+            "LyricsWriter":"かいりきベア",
+            "Singer":"鈴木勝",
+            "AudioPath":"vemon/Vemon_Masaru.ogg",
+            "PreviewPath":"",
+            "JacketPath":"vemon/vemon_masaru.png",
+            "Charts":[
+                {
+                    "Difficulty":2,
+                    "FilePath":"vemon/vemon_hard.fbscore"
+                }
+            ]
+        }
+    ]
+}
